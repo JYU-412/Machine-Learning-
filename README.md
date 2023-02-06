@@ -9,3 +9,4 @@ Still updating...
 
 
 Lantz, B. (2019). Machine learning with R : Expert techniques for predictive modeling (Third ed., Expert insight). Birmingham, UK: Packt.
+https://www.amazon.com/Machine-Learning-R-Brett-Lantz/dp/1782162143
